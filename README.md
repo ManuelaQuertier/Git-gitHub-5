@@ -1,4 +1,4 @@
-# Git-gitHub-5
+REMOTE
 Merge&amp;conflict
 quelques lignes de textes
 dans le fichie
